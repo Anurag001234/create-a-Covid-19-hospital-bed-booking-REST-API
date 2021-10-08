@@ -1,0 +1,49 @@
+{
+    "_links": {
+        "last": {
+            "href": "http://localhost:5000/cocktails/?page=5"
+        },
+        "next": {
+            "href": "http://localhost:5000/cocktails/?page=5"
+        },
+        "prev": {
+            "href": "http://localhost:5000/cocktails/?page=3"
+        },
+        "self": {
+            "href": "http://localhost:5000/cocktails/?page=4"
+        }
+    },
+    "recipes": [
+        {
+            "_id": "5f7daa198ec9dfb536781b0d",
+            "date_added": null,
+            "date_updated": null,
+            "ingredients": [
+            {
+                "name": "Light rum",
+                "quantity": {
+                "unit": "oz",
+                }
+            },
+            {
+                "name": "Grapefruit juice",
+                "quantity": {
+                "unit": "oz",
+                }
+            },
+            {
+                "name": "Bitters",
+                "quantity": {
+                "unit": "dash",
+                }
+            }
+            ],
+            "instructions": [
+            "Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes",
+            "Stir well."
+            ],
+            "name": "Monkey Wrench",
+            "slug": "monkey-wrench"
+        },
+    ]
+    
